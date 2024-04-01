@@ -1,0 +1,75 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(background1.png);
+    background-size: auto ;
+}
+
+
+body .bigpopa{
+    background-color: hsl(269, 97%, 35%,0.3);
+    align-items: center;
+    width: 40%;
+    margin-right: auto ;
+    margin-left:auto;
+    text-align:  center ;
+    margin-top: 10px ;
+    padding-top: 20px ;
+    padding-bottom: 50px;
+    border-radius:20px ;
+}
+
+.logo {
+     align-items: center;
+     text-align: center;
+     margin-top: 210px;
+     margin-bottom: 10px; 
+     font-family:"Eater", serif; 
+     font-size: 4em;  
+     position: relative;
+     z-index: 2;
+     color:#FFCA3A;
+}
+.logo1{
+    position: relative;
+    z-index: 1;
+    align-items: center;
+    text-align: center;
+    margin-top: -130px;
+    font-family:"Eater", serif;
+    font-size: 3.3em;
+    color: black;
+    letter-spacing: 5px;
+
+}
+
+.bigpopa h2 {
+    font-family: "Madimi One", sans-serif;
+    font-size:  2em;
+    font-weight: 600;
+    letter-spacing: 4px;
+}
+.bigpopa .txt {
+    padding-bottom: 20px;
+}
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+ .bigpopa i {
+    color: black;
+    position:absolute;
+    padding: 10px;
+}
+
+.bigpopa input {
+    width: 90%; 
+    text-align: center;
+    padding: 10px;
+
+}
+
